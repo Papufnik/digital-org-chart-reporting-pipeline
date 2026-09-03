@@ -1,0 +1,7 @@
+numpy
+openpyxl
+# anthropic is optional -- only needed for ceo_weekly_memo.py's bounded
+# narrative step (see that file's header). Without it, or without an
+# ANTHROPIC_API_KEY set, the memo falls back to templated framing.
+# anthropic
+
